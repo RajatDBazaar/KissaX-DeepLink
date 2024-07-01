@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.kissx",
+            "sha256_cert_fingerprints": [
+                "60:EE:0B:64:64:D7:3F:DA:B8:A3:67:1A:8D:E8:EE:9C:C3:A7:09:79:E5:0C:04:11:E4:9D:23:B7:39:FD:73:0B"
+            ]
+        }
+    }
+]
